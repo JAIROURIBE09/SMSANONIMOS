@@ -13,7 +13,7 @@ Este script de Python utiliza la API de Twilio para enviar mensajes SMS a travé
 1. **Clona este repositorio o descarga el archivo `sms.py`.**
 
     ```bash
-    git clone https://github.com/tu_usuario/SMS.git
+    git clone git@github.com:JAIROURIBE09/SMSANONIMOS.git
     ```
 
 2. **Instala las dependencias ejecutando el siguiente comando:**
@@ -33,7 +33,7 @@ Este script de Python utiliza la API de Twilio para enviar mensajes SMS a travé
 4. **Ejecuta el script:**
 
     ```bash
-    python sms_sender.py
+    python sms.py
     ```
 
 ## Configuración de Twilio Copilot
