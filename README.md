@@ -24,9 +24,10 @@ Este script de Python utiliza la API de Twilio para enviar mensajes SMS a travé
 
 3. **Configura las variables de entorno:**
 
-    - `TWILIO_ACCOUNT_SID`: SID de tu cuenta Twilio.
-    - `TWILIO_AUTH_TOKEN`: Token de autenticación Twilio.
-    - `TWILIO_COPILOT_SID`: SID de tu servicio Twilio Copilot.
+export TWILIO_ACCOUNT_SID=""
+export TWILIO_AUTH_TOKEN=""
+export TWILIO_COPILOT_SID=""
+
 
     Puedes configurar estas variables de entorno en tu sistema o crear un archivo `.env` en la raíz del proyecto y cargarlo antes de ejecutar el script.
 
